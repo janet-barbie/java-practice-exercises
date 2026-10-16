@@ -11,6 +11,7 @@ public class EvenOrOdd {
     }else{
         System.out.println("odd number");
     }
+    input.close();
 
 
     }
